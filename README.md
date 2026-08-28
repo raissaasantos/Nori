@@ -1,63 +1,111 @@
 # Nori
 A web application designed to help users plan and track their daily diet based on personalized calorie and macronutrient goals.
 
-## 🎯 Objective
+## 📋 About the Project
 
-The goal of this project is to develop a diet management application where users can calculate their nutritional goals and track their daily food intake in a simple and practical way.
+Diet App is a system designed to help users plan, track, and understand their daily nutrition while providing visibility into how calorie and macronutrient targets are calculated and how changes to the diet affect those targets.
 
-The application will use the **TACO (Brazilian Food Composition Table)** as one of the main sources for nutritional information.
+The application focuses especially on users who want greater control over their calorie intake and daily nutrition, particularly individuals following a weight-loss process.
 
-## ✨ Main Features
+## 🎯 Project Objectives
 
-* User registration and login
-* Personal profile setup
-* BMR and TDEE calculation
-* Personalized calorie and macronutrient goals
-* Daily meal creation
-* Food search using TACO data
-* Custom food registration
-* Food quantity adjustment
-* Automatic calorie and macronutrient calculation
-* Daily nutritional progress tracking
+This project is being developed to:
 
-## 🛠️ Technologies
+- Build a complete software application from planning to deployment.
+- Apply Java, Spring Boot, and PostgreSQL in a practical project.
+- Develop and consume REST APIs.
+- Implement business logic and nutritional calculations.
+- Gain experience with frontend development and user interfaces.
+- Develop a responsive Web application.
+- Develop a Mobile application in a later stage.
+- Apply software testing and documentation practices.
+- Learn how to plan, architect, build, test, deploy, and document a complete software product.
+
+## ✨ Planned Features
+
+- User registration and authentication.
+- Nutrition goal configuration.
+- BMR and TDEE calculations.
+- Daily calorie and macronutrient goals.
+- Daily diet tracking.
+- Meal and food management.
+- Food quantity adjustments with automatic nutritional recalculation.
+- TACO-based nutritional information.
+- Custom food creation.
+- Meal plans.
+- Water tracking.
+- Diet history and calendar.
+- Weekly reports.
+- Monthly reports.
+- Manual diet adjustment.
+- Free/flexible meal days.
+
+## 🚀 MVP
+
+The first version of the project will focus on delivering a functional Web application with:
+
+- User authentication.
+- Nutrition profile and goal configuration.
+- Daily diet tracking.
+- Food and meal management.
+- Automatic calorie and macronutrient recalculation.
+- Manual diet adjustment.
+- Meal plans.
+- Water tracking.
+- Diet history.
+- Weekly and monthly reports.
+
+The Mobile application and fully automatic diet adjustment will be developed in later stages.
+
+## 🛠️ Planned Technology Direction
 
 ### Backend
 
-* Java
-* Spring Boot
-* PostgreSQL
+- Java
+- Spring Boot
+- Spring Security
+- REST API
+- JPA/Hibernate
+
+### Database
+
+- PostgreSQL
 
 ### Frontend
 
-* To be defined
+The Web frontend technology will be selected during the Technology Planning phase.
 
-### Future
+### Mobile
 
-* Mobile application
+The Mobile framework will be selected during the Technology Planning phase.
 
-## 📌 Project Status
+## 🗺️ Development Roadmap
 
-🚧 **In development**
-
-The project is currently in the planning and requirements phase.
-
-## 🗺️ Roadmap
-
-* [x] Project Planning
+* [x] Planning
 * [ ] Requirements
 * [ ] User Flows
 * [ ] UI/UX Design
-* [ ] System Architecture
+* [ ] Architecture
 * [ ] Database
-* [ ] API
-* [ ] Backend
-* [ ] Web Application
-* [ ] Mobile Application
-* [ ] Testing
+* [ ] API Design
+* [ ] Backend Development
+* [ ] Web Frontend Development
+* [ ] Mobile Development
+* [ ] Testing & Quality
 * [ ] Deployment
 * [ ] Documentation
+* [ ] Final Review & Release
 
-## 📄 License
+## 🚧 Project Status
 
-This project is for educational and portfolio purposes.
+🟡 Currently in development.
+
+Current phase: **Planning**
+
+## 👩‍💻 Author
+
+Raissa Santos
+
+---
+
+This project is being developed for personal use, learning, and portfolio purposes.
