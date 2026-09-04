@@ -82,8 +82,8 @@ The Mobile framework will be selected during the Technology Planning phase.
 ## 🗺️ Development Roadmap
 
 * [x] Planning
-* [ ] Requirements
-* [ ] User Flows
+* [x] Requirements
+* [x] User Flows
 * [ ] UI/UX Design
 * [ ] Architecture
 * [ ] Database
@@ -100,7 +100,7 @@ The Mobile framework will be selected during the Technology Planning phase.
 
 🟡 Currently in development.
 
-Current phase: **Planning**
+Current phase: **UI/UX Design**
 
 ## 👩‍💻 Author
 
