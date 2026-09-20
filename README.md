@@ -66,6 +66,7 @@ The Mobile application and fully automatic diet adjustment will be developed in 
 - Spring Security
 - REST API
 - JPA/Hibernate
+- Docker
 
 ### Database
 
@@ -84,8 +85,8 @@ The Mobile framework will be selected during the Technology Planning phase.
 * [x] Planning
 * [x] Requirements
 * [x] User Flows
-* [ ] UI/UX Design
-* [ ] Architecture
+* [x] UI/UX Design
+* [x] Architecture
 * [ ] Database
 * [ ] API Design
 * [ ] Backend Development
@@ -100,7 +101,7 @@ The Mobile framework will be selected during the Technology Planning phase.
 
 🟡 Currently in development.
 
-Current phase: **UI/UX Design**
+Current phase: **Database**
 
 ## 👩‍💻 Author
 
